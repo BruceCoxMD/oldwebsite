@@ -1,0 +1,14 @@
+{
+  "generator-mcfly": {
+    "filenameCase": "camel",
+    "filenameSuffix": true,
+    "appname": "bruceCoxMdgithubio",
+    "clientFolder": "client",
+    "ionic": true,
+    "famous": true,
+    "ngCordova": true,
+    "fontawesome": false,
+    "bootstrap": true,
+    "material": true
+  }
+}
