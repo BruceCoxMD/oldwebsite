@@ -28,11 +28,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.1884058"
-     inkscape:cx="216.77585"
-     inkscape:cy="164.21463"
+     inkscape:zoom="2.2545434"
+     inkscape:cx="310.98437"
+     inkscape:cy="161.04254"
      inkscape:document-units="px"
-     inkscape:current-layer="g3057"
+     inkscape:current-layer="layer2"
      showgrid="false"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -51,7 +51,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -76,13 +76,13 @@
     <text
        sodipodi:linespacing="125%"
        id="text3059"
-       y="74.018196"
-       x="14.740912"
+       y="262.96997"
+       x="19.619949"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        xml:space="preserve"><tspan
          style="font-size:72px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Impact;-inkscape-font-specification:Impact Bold"
-         y="74.018196"
-         x="14.740912"
+         y="262.96997"
+         x="19.619949"
          id="tspan3061"
          sodipodi:role="line">PHOTOGRAPHY</tspan></text>
   </g>
@@ -94,14 +94,14 @@
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;font-family:Sans"
-       x="10.977276"
-       y="68.686378"
+       x="15.412765"
+       y="258.96881"
        id="text3050"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3052"
-         x="10.977276"
-         y="68.686378"
+         x="15.412765"
+         y="258.96881"
          style="font-size:72px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;stroke:#ffffff;font-family:Impact;-inkscape-font-specification:Impact Bold">PHOTOGRAPHY</tspan></text>
   </g>
 </svg>
